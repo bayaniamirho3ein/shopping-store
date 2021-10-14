@@ -1,4 +1,4 @@
 
 
-see https://shopping-store.vercel.app
+ https://shopping-store.vercel.app
 
